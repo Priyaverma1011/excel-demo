@@ -1,3 +1,3 @@
-this  is my first Git reposiory.
+this  is my first Github repository.
 <br>
-author-prya verma
+author-priya verma
